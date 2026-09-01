@@ -1,0 +1,47 @@
+# config.yaml
+# Rerun ivar consensus calling for the Garissa/nvrl ONT samples at multiple min-depth (-m) thresholds
+# Use existing alignments/reference from the production Chikv_ONT pipeline dont re-run minimap2
+bam_dir: "/home/bsluseradmin/serverdrop/CHIKV_2024-2026/Chikv_ONT/results/mapping"
+reference: "/home/bsluseradmin/serverdrop/CHIKV_2024-2026/Chikv_ONT/refs/PP896919_Chik.fasta"
+
+provenance_table: "/home/bsluseradmin/serverdrop/CHIKV_2024-2026/Chikungunya_2024/chikv_bsl_build/MS/ont-dissonance/provenence"
+
+samples:
+  - nvrl-603
+  - nvrl-604
+  - nvrl-605
+  - nvrl-606
+  - nvrl-607
+  - nvrl-608
+  - nvrl-609
+  - nvrl-610
+  - nvrl-611
+  - nvrl-612
+  - nvrl-613
+  - nvrl-614
+  - nvrl-615
+  - nvrl-616
+  - nvrl-617
+  - NVRL-628
+  - NVRL-629
+  - NVRL-630
+  - NVRL-631
+  - NVRL-632
+  - NVRL-633
+  - NVRL-634
+  - NVRL-635
+  - NVRL-636
+  - NVRL-637
+  - NVRL-638
+  - NVRL-639
+  - NVRL-640
+  - NVRL-641
+  - NVRL-642
+  - NVRL-648
+  - NVRL-649
+
+min_depth_thresholds: [2, 5, 10, 20, 30, 50]
+
+near_complete_min_length: 8000
+
+ivar_image: "staphb/ivar:1.4.4"

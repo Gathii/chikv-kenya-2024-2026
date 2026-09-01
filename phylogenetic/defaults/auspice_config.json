@@ -1,0 +1,94 @@
+{
+  "title": "Tracking the Chikungunya virus in northeastern and coastal Kenya, 2024-2026",
+  "maintainers": [
+    {
+      "name": "WRAIR-Africa genomics team",
+      "url": "https://wrair-a.org"
+    }
+  ],
+  "data_provenance": [
+    {
+      "name": "GenBank",
+      "url": "https://www.ncbi.nlm.nih.gov/genbank/"
+    },
+    {
+      "name": "WRAIR-Africa (Local Data)",
+      "url": "https://wrair-a.org/"
+    }
+  ],
+  "build_url": "https://github.com/Gathii/chikv-kenya-2024-2026",
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "display_defaults": {
+    "map_triplicate": true,
+    "transmission_lines": true,
+    "color_by": "division",
+    "geo_resolution": "division",
+    "distance_measure": "num_date"
+  },
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "division",
+      "title": "Admin Division (County/State)",
+      "type": "categorical"
+    },
+    {
+      "key": "location",
+      "title": "Location (City)",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
+      "key": "author",
+      "title": "Author",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    {
+      "key": "location",
+      "title": "City"
+    },
+    {
+      "key": "division",
+      "title": "County/State"
+    },
+    {
+      "key": "country",
+      "title": "Country"
+    },
+    {
+      "key": "region",
+      "title": "Region"
+    }
+  ],
+  "filters": [
+    "country",
+    "region",
+    "division",
+    "location",
+    "author"
+  ]
+}

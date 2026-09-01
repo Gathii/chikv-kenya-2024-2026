@@ -1,0 +1,9577 @@
+{
+  "annotations": {
+    "CHIKVgp1": {
+      "end": 7501,
+      "seqid": "phylogenetic/refs/CHKV.gb",
+      "start": 77,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "CHIKVgp2": {
+      "end": 11313,
+      "seqid": "phylogenetic/refs/CHKV.gb",
+      "start": 7567,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 11826,
+      "seqid": "phylogenetic/refs/CHKV.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "32.1.0"
+  },
+  "nodes": {
+    "AB455493": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q"
+        ],
+        "CHIKVgp2": [
+          "A314V",
+          "G380R"
+        ]
+      }
+    },
+    "AB455494": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "W456R",
+          "R501L",
+          "M1238L"
+        ],
+        "CHIKVgp2": [
+          "T806A"
+        ]
+      }
+    },
+    "AFI-KNM-205": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-KNM-210": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-KNM-213": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-KNM-264": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314I",
+          "T1110I",
+          "A1664V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-KNM-425": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A875V"
+        ]
+      }
+    },
+    "AFI-LAM-2226": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2366": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2388": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2389": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2444": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1771I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2446": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1154A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2450": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "P16L"
+        ]
+      }
+    },
+    "AFI-LAM-2451": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2452": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1889I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2453": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2455": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2456": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2463": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2610": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2612": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K678M",
+          "A1791T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2613": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2614": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "P282L",
+          "A957V"
+        ]
+      }
+    },
+    "AFI-LAM-2685": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2726": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2728": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2786": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2811": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G1176D"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2812": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2825": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2901": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-2954": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3105": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3118": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3121": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3128": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3139": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3146": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3150": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3157": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Q471R"
+        ]
+      }
+    },
+    "AFI-LAM-3162": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A795V"
+        ]
+      }
+    },
+    "AFI-LAM-3166": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3167": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3168": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3173": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G1802E"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LAM-3179": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V541A"
+        ]
+      }
+    },
+    "AFI-LKN-053": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E1895A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-086": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1617R",
+          "L1911S"
+        ],
+        "CHIKVgp2": [
+          "N624K",
+          "N782T",
+          "R932K"
+        ]
+      }
+    },
+    "AFI-LKN-088": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "H1190Q"
+        ]
+      }
+    },
+    "AFI-LKN-089": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E680K",
+          "V686A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-097": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A493V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-138": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-139": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-141": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-144": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-146": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-147": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-149": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-150": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-152": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1182T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-153": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-154": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-155": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-156": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-157": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-160": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-161": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-162": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-164": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-166": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-167": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-169": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-170": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I730V"
+        ],
+        "CHIKVgp2": [
+          "V965I"
+        ]
+      }
+    },
+    "AFI-LKN-171": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-172": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-173": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-174": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-175": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T874I"
+        ]
+      }
+    },
+    "AFI-LKN-176": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-177": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-181": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-182": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-183": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-184": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-252": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-253": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N186D",
+          "A1922T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-254": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N1303S"
+        ],
+        "CHIKVgp2": [
+          "A795V"
+        ]
+      }
+    },
+    "AFI-LKN-255": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-256": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-257": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-258": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-259": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-262": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S197L"
+        ]
+      }
+    },
+    "AFI-LKN-263": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-264": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-266": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-267": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-268": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D651N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-270": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-271": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-272": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-274": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-LKN-350": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V743A"
+        ]
+      }
+    },
+    "AFI-LKN-393": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1729": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1758": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1765": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1785": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R1962W"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1786": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1788": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1789": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1790": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V1239A"
+        ]
+      }
+    },
+    "AFI-MNB-1793": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1794": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1796": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1799": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1800": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1801": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1802": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1803": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1804": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1805": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1806": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1807": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1783P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1809": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1810": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1811": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1812": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1813": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1875": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A589V"
+        ]
+      }
+    },
+    "AFI-MNB-1876": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1877": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1878": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1880": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1882": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1885": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1886": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K253E"
+        ],
+        "CHIKVgp2": [
+          "S46T"
+        ]
+      }
+    },
+    "AFI-MNB-1888": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1889": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1370G",
+          "W1374L",
+          "Y1396D",
+          "L1743P",
+          "C1747F",
+          "V1932G",
+          "A2095T",
+          "L2201I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1890": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1892": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N589T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1893": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1894": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "AFI-MNB-1975": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "EU372006": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "EU564334": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "EU564335": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1805N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ000062": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1133I"
+        ],
+        "CHIKVgp2": [
+          "Y394H",
+          "L787V"
+        ]
+      }
+    },
+    "FJ000063": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1234A",
+          "E1806A"
+        ],
+        "CHIKVgp2": [
+          "H467Y",
+          "K1020R"
+        ]
+      }
+    },
+    "FJ000065": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ000067": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F391L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ000068": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A103V",
+          "K1591N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ000069": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445427": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T320M",
+          "W456C"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445428": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R85S",
+          "T320M",
+          "P512R",
+          "I714T"
+        ],
+        "CHIKVgp2": [
+          "W389R"
+        ]
+      }
+    },
+    "FJ445431": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445432": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G888R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445433": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445443": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445463": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445484": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445502": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445510": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ445511": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ513629": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L407I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ513637": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "W1846R"
+        ],
+        "CHIKVgp2": [
+          "Q523R",
+          "M691T"
+        ]
+      }
+    },
+    "FJ513645": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q521L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FJ513654": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I2333V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FR687340": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q",
+          "V1218I",
+          "G1717E"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FR687341": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FR687342": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T301I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FR687343": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L108P",
+          "*1857R"
+        ],
+        "CHIKVgp2": [
+          "S697A"
+        ]
+      }
+    },
+    "FR687345": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1470V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FR687346": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FR687347": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K253E"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FR687348": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "FR717336": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "FR717337": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "GQ428210": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D1583E",
+          "M2352K"
+        ],
+        "CHIKVgp2": [
+          "E641K",
+          "E926G",
+          "Y994H",
+          "T1205A"
+        ]
+      }
+    },
+    "GQ428212": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D531G",
+          "V716A",
+          "K864E",
+          "K1427Q",
+          "V2157A"
+        ],
+        "CHIKVgp2": [
+          "C1242R"
+        ]
+      }
+    },
+    "GQ428213": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L772R",
+          "L773P"
+        ],
+        "CHIKVgp2": [
+          "E686G",
+          "C741G",
+          "S808G",
+          "D983G"
+        ]
+      }
+    },
+    "GQ428214": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1243P",
+          "L1534R",
+          "E1773G",
+          "S1979P",
+          "N2115D",
+          "M2342V"
+        ],
+        "CHIKVgp2": [
+          "N397S",
+          "G1057E",
+          "Q1220R"
+        ]
+      }
+    },
+    "GQ428215": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G105R",
+          "W258R",
+          "N946D",
+          "S1524G"
+        ],
+        "CHIKVgp2": [
+          "I28T",
+          "R305G",
+          "V554I",
+          "G675S",
+          "P1113L"
+        ]
+      }
+    },
+    "GQ905863": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1950H"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "GU013528": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "GU013530": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1483R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "GU301779": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P614S"
+        ],
+        "CHIKVgp2": [
+          "F409L"
+        ]
+      }
+    },
+    "GU301780": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P29S",
+          "N186D",
+          "T1671M",
+          "N2458K",
+          "R2463I",
+          "T2468S",
+          "L2469M"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "GU301781": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "HM045792": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T256R",
+          "S293N",
+          "V330L",
+          "G1026R",
+          "T1729A",
+          "A1803V",
+          "K2134R"
+        ],
+        "CHIKVgp2": [
+          "N397S",
+          "A487V",
+          "T925I",
+          "A938T"
+        ]
+      }
+    },
+    "HM045811": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T428I",
+          "I481T",
+          "S1681G"
+        ],
+        "CHIKVgp2": [
+          "K546R",
+          "N624S"
+        ]
+      }
+    },
+    "HM045822": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R",
+          "M314V",
+          "T1669A",
+          "L1719F",
+          "L1784F"
+        ],
+        "CHIKVgp2": [
+          "E2D",
+          "A746T"
+        ]
+      }
+    },
+    "HQ456251": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D2330Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "HQ846359": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y303H",
+          "V522A",
+          "E943G",
+          "T1134I",
+          "L1172V",
+          "T1183I",
+          "R1750G"
+        ],
+        "CHIKVgp2": [
+          "K60R",
+          "G1004R",
+          "Q1160H",
+          "S1166A",
+          "V1176E",
+          "H1184Q",
+          "A1186E",
+          "E1188D",
+          "P1200R",
+          "A1213G"
+        ]
+      }
+    },
+    "JF274082": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P512S",
+          "D755N",
+          "G1176D",
+          "N1742I",
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "JQ065885": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V81I",
+          "T351A",
+          "P1688L"
+        ],
+        "CHIKVgp2": [
+          "H638Y",
+          "S1059P"
+        ]
+      }
+    },
+    "JQ065886": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M379R",
+          "I1508V",
+          "K1521E"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "JQ861255": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "JQ861257": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "JQ861258": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L691W",
+          "A1139P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "JQ861259": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "JQ861260": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "KF151174": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "G656D"
+        ]
+      }
+    },
+    "KF151175": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V156I",
+          "V2172M",
+          "A2359V"
+        ],
+        "CHIKVgp2": [
+          "N658K"
+        ]
+      }
+    },
+    "KJ579185": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "KJ579186": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "K546R"
+        ]
+      }
+    },
+    "KJ579187": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "KJ679578": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D58N",
+          "H1550Y",
+          "S1659P",
+          "A1664V",
+          "I1670T",
+          "E1685K",
+          "T1709I",
+          "T1715A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "KP164568": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "KP164570": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "KT324224": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P249L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "KT324225": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "KT324226": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1673P"
+        ],
+        "CHIKVgp2": [
+          "N543S"
+        ]
+      }
+    },
+    "KT324227": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1591T"
+        ],
+        "CHIKVgp2": [
+          "T8A"
+        ]
+      }
+    },
+    "KU365370": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q1490R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "KU365371": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "E659K"
+        ]
+      }
+    },
+    "KX619422": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1239R",
+          "H2375Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "KX619423": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "H1550Y",
+          "E1793G"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "KX619424": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E910Q",
+          "P1362A",
+          "D1364G",
+          "A1369S",
+          "T1387A",
+          "A1388T",
+          "F2287L"
+        ],
+        "CHIKVgp2": [
+          "S913T"
+        ]
+      }
+    },
+    "KX619425": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1371H",
+          "H1550Y",
+          "S1659P",
+          "A1664V",
+          "I1670T",
+          "E1685K",
+          "A1803V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "KX619426": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G684P",
+          "T692I",
+          "N748H",
+          "H1550Y",
+          "S1659P",
+          "A1664V",
+          "I1670T",
+          "T1709I",
+          "T1715A"
+        ],
+        "CHIKVgp2": [
+          "V1183A"
+        ]
+      }
+    },
+    "KY038947": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K253E",
+          "K269E",
+          "S293N",
+          "V334L",
+          "T428I",
+          "P476Q",
+          "L1673M",
+          "P1872L",
+          "A2040T"
+        ],
+        "CHIKVgp2": [
+          "S326G",
+          "V1176A"
+        ]
+      }
+    },
+    "KY057363": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1902E"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "KY704954": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC259093": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q"
+        ],
+        "CHIKVgp2": [
+          "K97R"
+        ]
+      }
+    },
+    "LC259094": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P29S",
+          "L455P",
+          "E504A",
+          "E1424D",
+          "Y1550H",
+          "L1609I",
+          "A1791T",
+          "I2426T"
+        ],
+        "CHIKVgp2": [
+          "M399V",
+          "M691T"
+        ]
+      }
+    },
+    "LC580239": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580240": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Y1023H"
+        ]
+      }
+    },
+    "LC580244": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580246": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580248": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R1152H"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580249": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V541M"
+        ]
+      }
+    },
+    "LC580252": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F633L",
+          "P1973T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580253": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "L786F"
+        ]
+      }
+    },
+    "LC580254": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "N829S"
+        ]
+      }
+    },
+    "LC580255": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1664V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580257": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1709I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580259": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E1662G",
+          "A1695V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "LC580269": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664141": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664142": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T925I"
+        ]
+      }
+    },
+    "LC664143": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S1164T"
+        ]
+      }
+    },
+    "LC664144": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R491Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664150": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664151": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E504K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664152": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V554I"
+        ]
+      }
+    },
+    "LC664153": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664154": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664155": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664156": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664157": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R",
+          "G1193S",
+          "A1664V"
+        ],
+        "CHIKVgp2": [
+          "Q471R",
+          "P629S"
+        ]
+      }
+    },
+    "LC664158": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T796M"
+        ],
+        "CHIKVgp2": [
+          "L768I"
+        ]
+      }
+    },
+    "LC664159": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "LC664163": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1111R"
+        ],
+        "CHIKVgp2": [
+          "A711V",
+          "M1142K"
+        ]
+      }
+    },
+    "LC664165": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T874I"
+        ]
+      }
+    },
+    "LC664166": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1848A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MF076569": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V2301D"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MF076570": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MF076572": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L455P",
+          "I1038V",
+          "H1796R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MF076573": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MF076575": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MF076576": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MF499120": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R1764K",
+          "F2271L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MF503628": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V567I"
+        ],
+        "CHIKVgp2": [
+          "N1144D"
+        ]
+      }
+    },
+    "MG137428": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q",
+          "Y909H",
+          "L1211P",
+          "S1659P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MG912993": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Q471R"
+        ]
+      }
+    },
+    "MG925665": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T2377I"
+        ],
+        "CHIKVgp2": [
+          "I702T",
+          "K870Q"
+        ]
+      }
+    },
+    "MH000702": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1661Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH349097": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P476Q",
+          "V2144I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH400249": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423797": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423798": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G1450R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423799": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423800": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R361H"
+        ]
+      }
+    },
+    "MH423801": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423802": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423803": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423804": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L480Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423805": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T301I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH423806": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A358V"
+        ]
+      }
+    },
+    "MH423810": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647180": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647181": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R501Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647182": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S386N"
+        ]
+      }
+    },
+    "MH647184": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647186": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1385A"
+        ],
+        "CHIKVgp2": [
+          "A1145T"
+        ]
+      }
+    },
+    "MH647187": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "L311Q",
+          "S1164T"
+        ]
+      }
+    },
+    "MH647188": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F391L",
+          "A1470V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647189": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647190": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L384I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647191": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T184S",
+          "V1884A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647192": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T184A",
+          "Y1078C",
+          "A1567T",
+          "T2118I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647194": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647195": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M1297T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647196": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1078C"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647197": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L455P",
+          "T1669A"
+        ],
+        "CHIKVgp2": [
+          "M715V"
+        ]
+      }
+    },
+    "MH647198": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1243F"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647199": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "W389R"
+        ]
+      }
+    },
+    "MH647200": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L455P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647201": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K234E"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647202": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647203": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647204": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647205": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N1647D"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647206": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S293N",
+          "M1727T"
+        ],
+        "CHIKVgp2": [
+          "P282L"
+        ]
+      }
+    },
+    "MH647207": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R501Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647208": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M1782I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647209": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F391L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647210": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647211": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647212": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1259V"
+        ],
+        "CHIKVgp2": [
+          "E1173D"
+        ]
+      }
+    },
+    "MH647213": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647214": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I227V",
+          "A2453S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647215": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V1100I",
+          "A1145T"
+        ]
+      }
+    },
+    "MH647216": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647217": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1940V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MH647218": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MH823663": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T430A",
+          "T2113I"
+        ],
+        "CHIKVgp2": [
+          "P629S"
+        ]
+      }
+    },
+    "MK040570": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK040571": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L266I",
+          "L2251S",
+          "S2262F",
+          "F2271L",
+          "S2275P",
+          "T2281P",
+          "G2282A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK086029": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q",
+          "F1003V",
+          "*1857R",
+          "A2043T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK120195": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK120196": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK120197": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I714T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK120198": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK120199": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK120201": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A94T",
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK120202": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P34S",
+          "R171Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK121906": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK156063": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK159127": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1412P",
+          "E1413G",
+          "G1414E",
+          "V1434D",
+          "N1435S",
+          "V1745A",
+          "T1746A",
+          "V1932E",
+          "E1933K",
+          "M1935I",
+          "M2153I",
+          "R2155G",
+          "K2158N",
+          "V2159E",
+          "T2160A",
+          "M2252L",
+          "R2345*",
+          "V2354E",
+          "D2358N",
+          "E2407Q",
+          "D2408E",
+          "R2409E",
+          "Y2437*",
+          "E2438*"
+        ],
+        "CHIKVgp2": [
+          "F766L",
+          "W767R"
+        ]
+      }
+    },
+    "MK468609": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK468610": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK468611": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK468613": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK468618": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "N1084S"
+        ]
+      }
+    },
+    "MK468619": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK468620": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T753I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK468622": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1721V"
+        ],
+        "CHIKVgp2": [
+          "I446L"
+        ]
+      }
+    },
+    "MK468627": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1614I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK473622": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T602A"
+        ]
+      }
+    },
+    "MK473625": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T981S"
+        ],
+        "CHIKVgp2": [
+          "A795V"
+        ]
+      }
+    },
+    "MK473627": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "N881Y"
+        ]
+      }
+    },
+    "MK473628": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "I362V",
+          "V813A",
+          "L1206F"
+        ]
+      }
+    },
+    "MK473629": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E1826K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MK473635": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK473638": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK848202": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MK935343": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V172A",
+          "V1385M"
+        ],
+        "CHIKVgp2": [
+          "K966E"
+        ]
+      }
+    },
+    "MK935344": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L803M",
+          "T2150I"
+        ],
+        "CHIKVgp2": [
+          "M1108T",
+          "F1121Y"
+        ]
+      }
+    },
+    "MK993757": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1557I"
+        ],
+        "CHIKVgp2": [
+          "P88L",
+          "T417A"
+        ]
+      }
+    },
+    "MN075149": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MN075150": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MN402883": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L50I",
+          "N377S",
+          "T378P",
+          "Y382F",
+          "L383F",
+          "L384F",
+          "Y712N",
+          "N1317D",
+          "D2330G",
+          "A2401G",
+          "G2402R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN402884": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P385S",
+          "K393R",
+          "F1003L",
+          "E1982G",
+          "T2005P"
+        ],
+        "CHIKVgp2": [
+          "T538R"
+        ]
+      }
+    },
+    "MN402885": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L383C",
+          "L384F",
+          "A682P",
+          "N1131D",
+          "L1173M",
+          "Q1490R",
+          "E1500R",
+          "H1501Y",
+          "A1567T",
+          "Q2003S",
+          "D2009C",
+          "Y2185F",
+          "H2334Q"
+        ],
+        "CHIKVgp2": [
+          "E475D",
+          "E641G",
+          "E1150G"
+        ]
+      }
+    },
+    "MN402886": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1999G",
+          "F2326S"
+        ],
+        "CHIKVgp2": [
+          "I580V"
+        ]
+      }
+    },
+    "MN402887": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N363T",
+          "N369Y",
+          "G370R",
+          "Q373P",
+          "N377K",
+          "L657F",
+          "K679R",
+          "P1794L",
+          "A2322G",
+          "M2350V"
+        ],
+        "CHIKVgp2": [
+          "I144T",
+          "V460A"
+        ]
+      }
+    },
+    "MN402888": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D886G",
+          "K983N",
+          "T1002A",
+          "H1314T",
+          "P1690L"
+        ],
+        "CHIKVgp2": [
+          "V460G",
+          "H1117Q",
+          "S1118F",
+          "S1119L",
+          "L1161P",
+          "I1163Y"
+        ]
+      }
+    },
+    "MN402889": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N375I",
+          "M379L",
+          "E986Q",
+          "D2330G"
+        ],
+        "CHIKVgp2": [
+          "V140L",
+          "L847S"
+        ]
+      }
+    },
+    "MN402890": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K427T",
+          "P614H",
+          "I2327F",
+          "D2329G",
+          "A2343P",
+          "A2347P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN402892": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D1679A",
+          "T2121A",
+          "I2327M",
+          "D2329G",
+          "D2330A",
+          "I2333T",
+          "H2334Q",
+          "A2343P",
+          "A2344P",
+          "A2347P",
+          "A2359P",
+          "T2379P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN428506": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1132L"
+        ],
+        "CHIKVgp2": [
+          "T399M"
+        ]
+      }
+    },
+    "MN428524": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N1096H",
+          "S1956P",
+          "L2248I"
+        ],
+        "CHIKVgp2": [
+          "A907T"
+        ]
+      }
+    },
+    "MN756625": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974203": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L407P",
+          "R491Q",
+          "D1854N"
+        ],
+        "CHIKVgp2": [
+          "I381L"
+        ]
+      }
+    },
+    "MN974204": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1670V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974205": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R221G",
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974206": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "C586S",
+          "I1273V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974208": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F391L",
+          "T1744A"
+        ],
+        "CHIKVgp2": [
+          "Q1069R"
+        ]
+      }
+    },
+    "MN974210": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R221G"
+        ],
+        "CHIKVgp2": [
+          "F331L"
+        ]
+      }
+    },
+    "MN974211": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314V"
+        ],
+        "CHIKVgp2": [
+          "P320S",
+          "S507L"
+        ]
+      }
+    },
+    "MN974212": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A17V"
+        ],
+        "CHIKVgp2": [
+          "W389R"
+        ]
+      }
+    },
+    "MN974214": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R",
+          "S457P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974215": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974216": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314V",
+          "D1004N"
+        ],
+        "CHIKVgp2": [
+          "G511S"
+        ]
+      }
+    },
+    "MN974217": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974218": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V804A"
+        ],
+        "CHIKVgp2": [
+          "T504A"
+        ]
+      }
+    },
+    "MN974222": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K469E",
+          "K2122R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MN974224": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N733K"
+        ],
+        "CHIKVgp2": [
+          "T819M"
+        ]
+      }
+    },
+    "MT023791": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1899H",
+          "S1918R"
+        ],
+        "CHIKVgp2": [
+          "T24A"
+        ]
+      }
+    },
+    "MT038399": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A497T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT038402": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT123008": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT123009": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT123010": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380146": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380147": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380148": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T143A"
+        ]
+      }
+    },
+    "MT380149": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "E291K"
+        ]
+      }
+    },
+    "MT380150": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380151": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380152": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "I609T"
+        ]
+      }
+    },
+    "MT380153": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380154": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L510S",
+          "V1391A"
+        ],
+        "CHIKVgp2": [
+          "N527I"
+        ]
+      }
+    },
+    "MT380155": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "P729T"
+        ]
+      }
+    },
+    "MT380156": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1914R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380157": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380158": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R1152C",
+          "L2139P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380159": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S271C"
+        ],
+        "CHIKVgp2": [
+          "L727R"
+        ]
+      }
+    },
+    "MT380160": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1771I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380161": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q",
+          "M292T",
+          "L560Q",
+          "V2144A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT380162": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M376T",
+          "A516T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT495605": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1529V",
+          "A1664V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT495608": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F2054L"
+        ],
+        "CHIKVgp2": [
+          "D997E"
+        ]
+      }
+    },
+    "MT526796": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT526797": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L513S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT526798": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R71G"
+        ],
+        "CHIKVgp2": [
+          "Q7L"
+        ]
+      }
+    },
+    "MT526799": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E1411G"
+        ],
+        "CHIKVgp2": [
+          "V869L"
+        ]
+      }
+    },
+    "MT526800": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E747K",
+          "L1978F",
+          "S1979A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT526801": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R943H"
+        ]
+      }
+    },
+    "MT526802": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT526803": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V2151A"
+        ],
+        "CHIKVgp2": [
+          "L1161P"
+        ]
+      }
+    },
+    "MT526804": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT526805": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E2232K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT526806": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT526807": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1590Q"
+        ],
+        "CHIKVgp2": [
+          "V1040A",
+          "Y1042H",
+          "C1068R"
+        ]
+      }
+    },
+    "MT636907": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT636909": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T2150A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT636911": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT636912": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S196L",
+          "V556M"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT636913": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1421V",
+          "I1617T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT640255": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1760A",
+          "Q1909R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT640256": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT666071": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K224N",
+          "Q2098R"
+        ],
+        "CHIKVgp2": [
+          "K966R"
+        ]
+      }
+    },
+    "MT666072": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P482L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MT666073": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT668625": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MT933029": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A13T",
+          "A173V",
+          "L1276V",
+          "S1850T",
+          "D1851Y"
+        ],
+        "CHIKVgp2": [
+          "K84Q",
+          "V702I",
+          "M800L",
+          "D960V"
+        ]
+      }
+    },
+    "MT933032": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D11N",
+          "A13T",
+          "S1850T"
+        ],
+        "CHIKVgp2": [
+          "L573F"
+        ]
+      }
+    },
+    "MT933046": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V172M",
+          "S2457P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "MW042254": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A10T",
+          "F699L",
+          "T879A",
+          "T883A",
+          "P887R",
+          "I1056V",
+          "S1302G",
+          "T1669R",
+          "*1857R",
+          "G2272L"
+        ],
+        "CHIKVgp2": [
+          "Q483R",
+          "R720I",
+          "S1246G"
+        ]
+      }
+    },
+    "MW042255": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R63K"
+        ]
+      }
+    },
+    "MW110472": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW110473": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW110474": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1063G"
+        ],
+        "CHIKVgp2": [
+          "P734A"
+        ]
+      }
+    },
+    "MW110476": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW161368": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW161414": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW161440": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW260512": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R",
+          "V1974I"
+        ],
+        "CHIKVgp2": [
+          "T399M",
+          "M800L"
+        ]
+      }
+    },
+    "MW281311": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F1762S",
+          "L1794P",
+          "*1857R"
+        ],
+        "CHIKVgp2": [
+          "K221R"
+        ]
+      }
+    },
+    "MW349426": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW507585": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW557660": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW557661": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW588418": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MW588419": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "MZ703085": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      },
+      "aa_sequences": {
+        "CHIKVgp1": "MDPVYVDIDADSAFLKALQRAYPMFEVEPRQVTPNDHANARAFSHLAIKLIEQEIDPDSTILDIGSAPARRMMSDRKYHCVCPMRSAEDPERLANYARKLASAAGKVLDRNISGKIGDLQAVMAVPDTETPTFCLHTDVSCRQRADVAIYQDVYAVHAPTSLYHQAIKGVRVAYWVGFDTTPFMYNAMAGAYPSYSTNWADEQVLKAKNIGLCSTDLTEGRRGKLSIMRGKKLKPCDRVLFSVGSTLYPESRKLLTSWHLPSVFHLKGKLSFTCRCDTVVSCEGYVVKRITMSPGLYGKTTGYAVTHHADGFLMCKTTDTVDGERVSFSVCTYVPATICDQMTGILATEVTPEDAQKLLVGLNQRIVVNGRTQRNTNTMKNYLLPVVAQAFSKWAKECRKDMEDEKLLGVRERTLTCCCLWAFKKQKTHTVYKRPDTQSIQKVQAEFDSFVVPSLWSSGLSIPLRTRIKWLLSKVPKTDLIPYSGDAQEARDAEKEAEEEREAELTREALPPLQAAQEDVQVEIDVEQLEDRAGAGIIETPRGAIKVTAQPTDHVVGEYLVLSPQTVLRSQKLSLIHALAEQVKTCTHSGRAGRYAVEAYDGRVLVPSGYAISPEDFQSLSESATMVYNEREFVNRKLHHIAMHGPALNTDEESYELVRAERTEHEYVYDVDQRRCCKKEEAAGLVLVGDLTNPPYHEFAYEGLKIRPACPYKIAVIGVFGVPGSGKSAIIKNLVTRQDLVTSGKKENCQEITTDVMRQRGLEISARTVDSLLLNGCNRPVDVLYVDEAFACHSGTLLALIALVRPRQKVVLCGDPKQCGFFNMMQMKVNYNHNICTQVYHKSISRRCTLPVTAIVSSLHYEGKMRTTNEYNKPIVVDTTGSTKPDPGDLVLTCFRGWVKQLQIDYRGYEVMTAAASQGLTRKGVYAVRQKVNENPLYASTSEHVNVLLTRTEGKLVWKTLSGDPWIKTLQNPPKGNFKATIKEWEVEHASIMAGICSHQMTFDTFQNKANVCWAKSLVPILETAGIKLNDRQWSQIIQAFKEDKAYSPEVALNEICTRMYGVDLDSGLFSKPLVSVYYADNHWDNRPGGKMFGFNPEAASILERKYPFTKGKWNINKQICVTTRRIEDFNPTTNIIPANRRLPHSLVAEHRPVKGERMEWLVNKINGHHVLLVSGYNLALPTKRVTWVAPLGVRGADYTYNLELGLPATLGRYDLVVINIHTPFRIHHYQQCVDHAMKLQMLGGDSLRLLKPGGSLLIRAYGYADRTSERVICVLGRKFRSSRALKPPCVTSNTEMFFLFSNFDNGRRNFTTHVMNNQLNAAFVGQATRAGCAPSYRVKRMDIAKNDEECVVNAANPRGLPGDGVCKAVYKKWPESFKNSATPVGTAKTVMCGTYPVIHAVGPNFSNYSESEGDRELAAAYREVAKEVTRLGVNSVAIPLLSTGVYSGGKDRLTQSLNHLFTAMDSTDADVVIYCRDKEWEKKISEAIQMRTQVELLDEHISIDCDIVRVHPDSSLAGRKGYSTTEGALYSYLEGTRFHQTAVDMAEIYTMWPKQTEANEQVCLYALGESIESIRQKCPVDDADASSPPKTVPCLCRYAMTPERVTRLRMNHVTSIIVCSSFPLPKYKIEGVQKVKCSKVMLFDHNVPSRVSPREYRPSQESVQEASTTTSLTHSQFDLSVDGEILPVPSDLDADAPALEPALDDGAIHTLPSATGNLAAVSDWVMSTVPVAPPRRRRGRNLTVTCDEREGNITPMASVRFFRAELCPVVQETAETRDTAMSLQAPPSTATELSHPPISFGAPSETFPITFGDFNEGEIESLSSELLTFGDFLPGEVDDLTDSDWSTCSDTDDEL*LDRAGGYIFSSDTGPGHLQQKSVRQSVLPVNTLEEVHEEKCYPPKLDEAKEQLLLKKLQESASMANRSRYQSRKVENMKATIIQRLKRGCRLYLMSETPKVPTYRTTYPAPVYSPPINVRLSNPESAVAACNEFLARNYPTVSSYQITDEYDAYLDMVDGSESCLDRATFNPSKLRSYPKQHAYHAPSIRSAVPSPFQNTLQNVLAAATKRNCNVTQMRELPTLDSAVFNVECFKKFACNQEYWEEFAASPIRITTENLTTYVTKLKGPKAAALFAKTHNLLPLQEVPMDRFTVDMKRDVKVTPGTKHTEERPKVQVIQAAEPLATAYLCGIHRELVRRLNAVLLPNVHTLFDMSAEDFDAIIAAHFKPGDTVLETDIASFDKSQDDSLALTALMLLEDLGVDHSLLDLIEAAFGEISSCHLPTGTRFKFGAMMKSGMFLTLFVNTLLNITIASRVLEDRLTKSACAAFIGDDNIIHGVVSDELMAARCATWMNMEVKIIDAVVSQKAPYFCGGFILHDTVTGTACRVADPLKRLFKLGKPLAAGDEQDEDRRRALADEVIRWQRTGLIDELEKAVYSRYEVQGISVVVMSMATFASSRSNFEKLRGPVITLYGGPK*",
+        "CHIKVgp2": "MEFIPTQTFYNRRYQPRPWTPRPTIQVIRPRPRPQRQAGQLAQLISAVNKLTMRAVPQQKPRRNRKNKKQKQKQQAPQNNTNQKKQPPKKKPAQKKKKPGRRERMCMKIENDCIFEVKHEGKVTGYACLVGDKVMKPAHVKGTIDNADLAKLAFKRSSKYDLECAQIPVHMKSDASKFTHEKPEGYYNWHHGAVQYSGGRFTIPTGAGKPGDSGRPIFDNKGRVVAIVLGGANEGARTALSVVTWNKDIVTKITPEGAEEWSLAIPVMCLLANTTFPCSQPPCTPCCYEKEPEETLRMLEDNVMRPGYYQLLQASLTCSPHRQRRSTKDNFNVYKATRPYLAHCPDCGEGHSCHSPVALERIRNEATDGTLKIQVSLQIGIKTDDSHDWTKLRYMDNHMPADAERAGLFVRTSAPCTITGTMGHFILARCPKGETLTVGFTDSRKISHSCTHPFHHDPPVIGREKFHSRPQHGKELPCSTYVQSTAATAEEIEVHMPPDTPDRTLMSQQSGNVKITVNGQTVRYKCNCGGSNEGLITTDKVINNCKVDQCHAAVTNHKKWQYNSPLVPRNAELGDRKGKIHIPFPLANVTCRVPKARNPTVTYGKNQVIMLLYPDHPTLLSYRNMGEEPNYQEEWVTHKKEVVLTVPTEGLEVTWGNNEPYKYWPQLSANGTAHGHPHEIILYYYELYPTMTVVVVSVASFILLSMVGMAVGMCMCARRRCITPYELTPGATVPFLLSLICCIRTAKAATYQEAAVYLWNEQQPLFWLQALIPLAALIVLCNCLRLLPCCCKTLAFLAVMSVGAHTVSAYEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESKDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH*"
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y909H",
+          "I1508V",
+          "I2418V"
+        ],
+        "CHIKVgp2": [
+          "D385G",
+          "V802I",
+          "V1078M"
+        ]
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T256K",
+          "P1659S",
+          "V1664A",
+          "I1709T",
+          "A1715T",
+          "S1795N",
+          "Q2363L"
+        ],
+        "CHIKVgp2": [
+          "A489T",
+          "A669T"
+        ]
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q1661P"
+        ],
+        "CHIKVgp2": [
+          "I702V"
+        ]
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S443G"
+        ]
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y909H",
+          "T1134I",
+          "A1695V",
+          "I2418V"
+        ],
+        "CHIKVgp2": [
+          "Q94P"
+        ]
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1037M",
+          "N1975D",
+          "T2229A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V475A",
+          "A516T",
+          "K1373R",
+          "I1508V",
+          "P1788S",
+          "S2045T",
+          "H2223R"
+        ],
+        "CHIKVgp2": [
+          "T451M",
+          "G530D",
+          "H676N",
+          "A1035V"
+        ]
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P29S",
+          "D75E",
+          "V156I",
+          "A487T",
+          "Q488K",
+          "R569C",
+          "A1139V",
+          "T1455I",
+          "A1529V",
+          "T1670A",
+          "T1671M",
+          "Q1677R",
+          "T1711M",
+          "V1732I",
+          "Q1772R",
+          "M1782T",
+          "N1816S",
+          "Q1909H",
+          "T1964I",
+          "E1982K",
+          "K2093N",
+          "V2360A"
+        ],
+        "CHIKVgp2": [
+          "K122R",
+          "M399T",
+          "V410A",
+          "K474R",
+          "L535Q",
+          "I536T",
+          "V547I",
+          "A552V",
+          "A571D",
+          "V702I",
+          "I740L",
+          "S808N",
+          "N818S",
+          "T846I",
+          "A1035V",
+          "S1059P",
+          "I1126V",
+          "K1133R",
+          "G1157E",
+          "V1208I"
+        ]
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1964V",
+          "K1982E"
+        ],
+        "CHIKVgp2": [
+          "Q607K"
+        ]
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N95S",
+          "E498K",
+          "N1030S",
+          "V1051I",
+          "P1097H",
+          "I1116V",
+          "V1352A",
+          "L1743Q"
+        ],
+        "CHIKVgp2": [
+          "T143A"
+        ]
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000033": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000047": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A592V",
+          "A1180V",
+          "S1410L",
+          "G1707R",
+          "C1768R",
+          "A1906V",
+          "P1956S"
+        ],
+        "CHIKVgp2": [
+          "F3Y",
+          "Q74R",
+          "H119Y",
+          "K290R",
+          "M399T",
+          "A428T",
+          "M709V",
+          "T1097I",
+          "A1186V",
+          "M1216L"
+        ]
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1663A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R503H"
+        ]
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K584T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000057": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1516N",
+          "K2093N"
+        ],
+        "CHIKVgp2": [
+          "H321R",
+          "H503R",
+          "K1020N"
+        ]
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V592A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P887A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T566I",
+          "A1721V"
+        ],
+        "CHIKVgp2": [
+          "T284I",
+          "H321R",
+          "K1020N"
+        ]
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000078": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "M800L"
+        ]
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I149V",
+          "T1557I"
+        ],
+        "CHIKVgp2": [
+          "A907T",
+          "V1078M"
+        ]
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1080S",
+          "I1974V",
+          "A2344D"
+        ],
+        "CHIKVgp2": [
+          "K1020T",
+          "A1114T"
+        ]
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V1078M"
+        ]
+      }
+    },
+    "NODE_0000084": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000085": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000086": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000087": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000088": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q903L",
+          "S940P",
+          "V987M",
+          "V1974I"
+        ],
+        "CHIKVgp2": [
+          "V589A"
+        ]
+      }
+    },
+    "NODE_0000089": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1667V",
+          "T1829I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000090": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E2340D"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000091": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N2028D"
+        ],
+        "CHIKVgp2": [
+          "T1020I"
+        ]
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1699V",
+          "L1992I",
+          "Q2038K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000093": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R1707G",
+          "I1992L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000094": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1667A",
+          "E1685K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000095": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000096": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000097": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1663S",
+          "A1664V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000098": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1661Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000099": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1659P"
+        ],
+        "CHIKVgp2": [
+          "T399I"
+        ]
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1699A"
+        ],
+        "CHIKVgp2": [
+          "E404G"
+        ]
+      }
+    },
+    "NODE_0000102": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1974V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000104": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000107": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000108": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A907T"
+        ]
+      }
+    },
+    "NODE_0000109": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K2038Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T399M"
+        ]
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "L573F"
+        ]
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A907T"
+        ]
+      }
+    },
+    "NODE_0000114": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K2038Q"
+        ],
+        "CHIKVgp2": [
+          "M800L"
+        ]
+      }
+    },
+    "NODE_0000115": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000116": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M1001L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000118": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I149V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000119": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K253M",
+          "R491Q",
+          "R675I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000120": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1113R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000124": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1767P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000125": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1974I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "F701C",
+          "I1097T"
+        ]
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1974I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000128": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1571N",
+          "V1606G"
+        ],
+        "CHIKVgp2": [
+          "E294K",
+          "T399M",
+          "L573F"
+        ]
+      }
+    },
+    "NODE_0000129": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1974I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000130": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D1851Y"
+        ],
+        "CHIKVgp2": [
+          "M800L"
+        ]
+      }
+    },
+    "NODE_0000131": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A907T"
+        ]
+      }
+    },
+    "NODE_0000132": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000133": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A121E"
+        ],
+        "CHIKVgp2": [
+          "M1078V"
+        ]
+      }
+    },
+    "NODE_0000134": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I149V",
+          "K357H",
+          "D1851Y"
+        ],
+        "CHIKVgp2": [
+          "G214A"
+        ]
+      }
+    },
+    "NODE_0000135": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000136": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I149V",
+          "M1001L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000137": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000138": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000139": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000140": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1767P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000141": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000142": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D1851Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000144": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000145": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1313P",
+          "A1470V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000146": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q488R",
+          "S589N",
+          "A1328V",
+          "Y1550H",
+          "T1670I",
+          "L1794P",
+          "P1804S",
+          "T1938A",
+          "T2117A"
+        ],
+        "CHIKVgp2": [
+          "I536T",
+          "T637M",
+          "S700T",
+          "V711A",
+          "V756I",
+          "D1093E"
+        ]
+      }
+    },
+    "NODE_0000147": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000148": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000149": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A1035V"
+        ]
+      }
+    },
+    "NODE_0000150": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000151": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T128K",
+          "T376M"
+        ],
+        "CHIKVgp2": [
+          "P23S"
+        ]
+      }
+    },
+    "NODE_0000152": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000153": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A1035V"
+        ]
+      }
+    },
+    "NODE_0000154": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1237S",
+          "T1777M"
+        ],
+        "CHIKVgp2": [
+          "V547I",
+          "K1020N",
+          "V1078M"
+        ]
+      }
+    },
+    "NODE_0000155": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V813A"
+        ]
+      }
+    },
+    "NODE_0000156": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M184T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000157": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R",
+          "M1392T",
+          "I1617V",
+          "T1671M"
+        ],
+        "CHIKVgp2": [
+          "E294K",
+          "L535Q"
+        ]
+      }
+    },
+    "NODE_0000158": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S329P",
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000159": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q1665R"
+        ],
+        "CHIKVgp2": [
+          "A795V"
+        ]
+      }
+    },
+    "NODE_0000160": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000165": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000166": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000167": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1137V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000171": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000172": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P476Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000173": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T1063I"
+        ]
+      }
+    },
+    "NODE_0000174": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1695V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000177": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1470V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000178": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V27I"
+        ]
+      }
+    },
+    "NODE_0000179": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M1727I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1371H"
+        ],
+        "CHIKVgp2": [
+          "S279F",
+          "R523Q",
+          "A1035V"
+        ]
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A1035V"
+        ]
+      }
+    },
+    "NODE_0000186": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1709I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000187": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1074S"
+        ],
+        "CHIKVgp2": [
+          "K577Q"
+        ]
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V583A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000189": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000190": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000191": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000192": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000193": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R1945S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000195": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000196": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000197": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000204": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000205": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000209": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000210": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000211": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000212": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000213": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000215": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A264V"
+        ]
+      }
+    },
+    "NODE_0000216": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000217": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000218": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1714Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000220": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P29S",
+          "A1803V"
+        ],
+        "CHIKVgp2": [
+          "M691V"
+        ]
+      }
+    },
+    "NODE_0000221": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000222": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "K290R",
+          "Q632R"
+        ]
+      }
+    },
+    "NODE_0000223": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "K662R"
+        ]
+      }
+    },
+    "NODE_0000224": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000225": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T435S",
+          "N598I"
+        ]
+      }
+    },
+    "NODE_0000226": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S1217A"
+        ]
+      }
+    },
+    "NODE_0000227": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000228": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "H665Y",
+          "S1663F"
+        ],
+        "CHIKVgp2": [
+          "A93V"
+        ]
+      }
+    },
+    "NODE_0000229": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1939V"
+        ],
+        "CHIKVgp2": [
+          "T24A"
+        ]
+      }
+    },
+    "NODE_0000230": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1214H"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000231": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P249Q",
+          "H2042Y",
+          "I2467V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000232": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000238": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T60A",
+          "A1938T",
+          "I2426T"
+        ],
+        "CHIKVgp2": [
+          "R503H"
+        ]
+      }
+    },
+    "NODE_0000239": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R488Q",
+          "A1664V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000240": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000241": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000242": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000244": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1834S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000247": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V589A",
+          "K1020E"
+        ]
+      }
+    },
+    "NODE_0000248": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000249": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000250": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "P87S"
+        ]
+      }
+    },
+    "NODE_0000251": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V303I",
+          "P320S"
+        ]
+      }
+    },
+    "NODE_0000252": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000253": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000254": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000255": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A264V"
+        ]
+      }
+    },
+    "NODE_0000256": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000257": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "I864V"
+        ]
+      }
+    },
+    "NODE_0000258": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V139I",
+          "V1328I"
+        ],
+        "CHIKVgp2": [
+          "T284S",
+          "I1153M"
+        ]
+      }
+    },
+    "NODE_0000259": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000260": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S2455C"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000261": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000262": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000263": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000264": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000265": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000266": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000267": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000269": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V287I",
+          "R1778H",
+          "F1801Y",
+          "I2418T"
+        ],
+        "CHIKVgp2": [
+          "N11S",
+          "N82S",
+          "I609T",
+          "V813A",
+          "M840I",
+          "V1183A"
+        ]
+      }
+    },
+    "NODE_0000270": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I167V",
+          "M376T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000271": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I481T",
+          "T1807M"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000272": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1504V",
+          "T1715I"
+        ],
+        "CHIKVgp2": [
+          "M715I",
+          "I740V",
+          "I743V"
+        ]
+      }
+    },
+    "NODE_0000273": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1557I",
+          "T1709I"
+        ],
+        "CHIKVgp2": [
+          "V1078M"
+        ]
+      }
+    },
+    "NODE_0000274": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000275": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q1494R",
+          "A1667T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000276": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1557T"
+        ],
+        "CHIKVgp2": [
+          "E256G"
+        ]
+      }
+    },
+    "NODE_0000277": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R",
+          "V1884A",
+          "T1964I"
+        ],
+        "CHIKVgp2": [
+          "A264V"
+        ]
+      }
+    },
+    "NODE_0000278": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000279": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1803T",
+          "S1953A",
+          "P1973S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000280": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000281": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1973S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000282": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1770A",
+          "V1884A"
+        ],
+        "CHIKVgp2": [
+          "T284M"
+        ]
+      }
+    },
+    "NODE_0000283": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000284": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000287": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1328A",
+          "S1804L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000288": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000289": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q1000R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000290": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000291": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R",
+          "T1123A"
+        ],
+        "CHIKVgp2": [
+          "V837A"
+        ]
+      }
+    },
+    "NODE_0000292": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000294": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000295": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000296": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000297": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000298": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L407P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000299": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000300": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000301": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000302": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000303": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P57S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000304": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000305": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000306": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000307": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000308": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P407S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000309": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000310": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000311": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000313": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P57S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000314": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000315": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000317": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000318": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000319": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T301I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000320": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000321": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000323": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A596V"
+        ]
+      }
+    },
+    "NODE_0000324": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000325": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000326": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000327": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000331": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000335": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000336": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000338": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000339": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000341": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R2148K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000343": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000344": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000345": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000346": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000350": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V1124A"
+        ]
+      }
+    },
+    "NODE_0000351": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000352": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S447I"
+        ]
+      }
+    },
+    "NODE_0000353": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000356": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000357": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000361": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000362": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1667E",
+          "L1743Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000363": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000364": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000365": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Q471R"
+        ]
+      }
+    },
+    "NODE_0000366": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000367": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000368": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Y688H"
+        ]
+      }
+    },
+    "NODE_0000369": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000372": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000373": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000374": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000376": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000379": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000380": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000381": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000382": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000383": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000384": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000387": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000388": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000391": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000392": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000393": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000394": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000397": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000398": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000399": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000400": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000401": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000402": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000403": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000405": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000406": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000407": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000408": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000409": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000410": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000411": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000412": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000413": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000414": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000415": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Q520L"
+        ]
+      }
+    },
+    "NODE_0000416": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000417": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000418": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000419": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000420": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000421": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000422": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000423": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A798V"
+        ]
+      }
+    },
+    "NODE_0000424": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000425": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1939T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000426": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T645I"
+        ]
+      }
+    },
+    "NODE_0000427": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000428": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000429": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S449L"
+        ]
+      }
+    },
+    "NODE_0000430": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000431": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000432": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000433": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000434": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A1035T"
+        ]
+      }
+    },
+    "NODE_0000435": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000436": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "H665Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000437": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A2040T"
+        ],
+        "CHIKVgp2": [
+          "A1213T"
+        ]
+      }
+    },
+    "NODE_0000438": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R1948G"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000439": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000440": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000441": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000442": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000443": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "I1126V"
+        ]
+      }
+    },
+    "NODE_0000444": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "A401T"
+        ]
+      }
+    },
+    "NODE_0000445": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "N79S"
+        ]
+      }
+    },
+    "NODE_0000446": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000447": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000448": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000449": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L2363S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000450": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1214H"
+        ],
+        "CHIKVgp2": [
+          "K558R"
+        ]
+      }
+    },
+    "NODE_0000451": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000452": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I714T",
+          "D1694N"
+        ],
+        "CHIKVgp2": [
+          "A711V"
+        ]
+      }
+    },
+    "NODE_0000453": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000454": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000455": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000456": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000457": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000458": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000459": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000460": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000462": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000463": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "H467Y"
+        ]
+      }
+    },
+    "NODE_0000464": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "M399I"
+        ]
+      }
+    },
+    "NODE_0000467": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "L945F"
+        ]
+      }
+    },
+    "NODE_0000468": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000470": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000473": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R"
+        ],
+        "CHIKVgp2": [
+          "Q471R"
+        ]
+      }
+    },
+    "NODE_0000475": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000476": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F1623L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000477": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000478": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000482": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q341R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000484": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000487": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V889A",
+          "T891I",
+          "V893D"
+        ]
+      }
+    },
+    "NODE_0000488": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000489": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000497": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D2330Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000498": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000499": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E680D",
+          "S1918N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000500": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000501": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000502": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000503": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000504": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000505": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000506": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000507": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "G530S"
+        ]
+      }
+    },
+    "NODE_0000508": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D1705E"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000509": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R62C"
+        ]
+      }
+    },
+    "NODE_0000510": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000511": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000512": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000513": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000514": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000515": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000516": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000517": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000519": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000520": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000521": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000522": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000523": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000524": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1391I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000525": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000527": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000528": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000529": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000530": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000531": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1789G"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000532": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000533": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "K546R"
+        ]
+      }
+    },
+    "NODE_0000534": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000535": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000536": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1328A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000537": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000538": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N1030S"
+        ],
+        "CHIKVgp2": [
+          "K73R"
+        ]
+      }
+    },
+    "NODE_0000539": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000540": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000541": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000542": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I290V",
+          "H1550Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000543": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000544": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000546": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000547": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000548": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1474V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000549": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000550": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000551": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "K1054R"
+        ]
+      }
+    },
+    "NODE_0000552": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000553": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000554": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000555": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000556": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000557": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D1724N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000558": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1682A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000559": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000560": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000561": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000562": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000563": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1101F"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000564": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000565": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N1167I",
+          "T1792M"
+        ],
+        "CHIKVgp2": [
+          "Q471R",
+          "K546R"
+        ]
+      }
+    },
+    "NODE_0000566": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M1782I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000567": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000568": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000569": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000570": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000571": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000572": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000573": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000574": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000575": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "P453S"
+        ]
+      }
+    },
+    "NODE_0000576": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000577": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000578": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000579": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1774A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000580": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000581": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Q517R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000582": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T24A"
+        ]
+      }
+    },
+    "NODE_0000583": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000584": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000585": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000586": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000587": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T585M",
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000588": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000589": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V410A",
+          "M709I"
+        ]
+      }
+    },
+    "NODE_0000590": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1805N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000591": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000592": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000595": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000596": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000597": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K2320E"
+        ],
+        "CHIKVgp2": [
+          "S315L",
+          "A804V"
+        ]
+      }
+    },
+    "NODE_0000599": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000600": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000601": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1791T"
+        ],
+        "CHIKVgp2": [
+          "Q471R"
+        ]
+      }
+    },
+    "NODE_0000602": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000603": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000604": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000605": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000606": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000607": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E1128D"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000608": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000609": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T2229A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000610": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000611": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000612": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M376W",
+          "T378P",
+          "A2324G"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000613": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000614": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M2350V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000615": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "H1236N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000616": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000617": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1668G"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000618": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000619": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000620": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I290V",
+          "H1550Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000621": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000622": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000623": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000624": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000625": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "*1857R",
+          "N2351T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000626": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000627": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000629": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Q72K",
+          "S808N",
+          "V813A"
+        ]
+      }
+    },
+    "NODE_0000630": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1872S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000631": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000632": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000633": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000634": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000635": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000638": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "K72R"
+        ]
+      }
+    },
+    "NODE_0000639": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "F1762S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000640": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000642": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000643": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000644": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000645": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000646": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000647": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000648": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000650": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000651": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000652": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000653": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000654": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K2093N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000658": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000659": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "K579R"
+        ]
+      }
+    },
+    "NODE_0000661": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000665": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000667": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000668": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000669": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000670": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000671": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000672": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000675": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000676": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000677": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000678": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000685": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000689": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000690": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000691": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000696": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000697": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000698": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000701": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000707": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000710": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000716": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000717": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000718": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000719": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000720": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000727": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000730": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000733": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000734": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000735": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000736": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000738": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000739": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000741": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000743": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000747": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000748": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "NODE_0000751": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OK139083": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1973S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OL589270": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL705486": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL741630": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL849990": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL849991": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T941M",
+          "G1433E"
+        ],
+        "CHIKVgp2": [
+          "P77T"
+        ]
+      }
+    },
+    "OL893105": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL893106": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL893107": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL898663": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL898675": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P476Q"
+        ],
+        "CHIKVgp2": [
+          "A1234V"
+        ]
+      }
+    },
+    "OL898693": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL898700": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL898714": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V149I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OL979153": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL979154": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL979155": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T284M",
+          "Q947R",
+          "E1150D"
+        ]
+      }
+    },
+    "OL979156": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "I743T"
+        ]
+      }
+    },
+    "OL979157": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R",
+          "K1379R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OL999091": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1797L"
+        ],
+        "CHIKVgp2": [
+          "T891I"
+        ]
+      }
+    },
+    "OL999092": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OL999093": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P476Q"
+        ],
+        "CHIKVgp2": [
+          "N64I"
+        ]
+      }
+    },
+    "OL999094": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1371H"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OL999095": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A503V",
+          "V1325A"
+        ],
+        "CHIKVgp2": [
+          "T489A"
+        ]
+      }
+    },
+    "OM128434": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P2226S"
+        ],
+        "CHIKVgp2": [
+          "V693A"
+        ]
+      }
+    },
+    "ON142089": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V2446I"
+        ],
+        "CHIKVgp2": [
+          "P18S",
+          "Q632L"
+        ]
+      }
+    },
+    "ON262795": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "ON262796": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314I"
+        ],
+        "CHIKVgp2": [
+          "F331L"
+        ]
+      }
+    },
+    "OP168356": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OP168367": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OP168369": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OP312936": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A887P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OP312957": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P453S",
+          "D2344A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OP312967": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1838M"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OP615963": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1661Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ148631": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ148632": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ148638": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "S738G"
+        ]
+      }
+    },
+    "OQ148640": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R171Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ148643": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ148648": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V688A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ148649": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A493V"
+        ],
+        "CHIKVgp2": [
+          "H638Y"
+        ]
+      }
+    },
+    "OQ148658": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P453S",
+          "R1152H",
+          "T1842I",
+          "S1847P",
+          "H2042Y"
+        ],
+        "CHIKVgp2": [
+          "R503H"
+        ]
+      }
+    },
+    "OQ567723": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T332A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ567728": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "M1108I"
+        ]
+      }
+    },
+    "OQ759705": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R63K"
+        ]
+      }
+    },
+    "OQ759706": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "R507L",
+          "A509S",
+          "V567I",
+          "V987M",
+          "A1667V",
+          "F1763S"
+        ],
+        "CHIKVgp2": [
+          "T645I",
+          "H676R"
+        ]
+      }
+    },
+    "OQ759709": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P235Q",
+          "P1590Q",
+          "V1906A"
+        ],
+        "CHIKVgp2": [
+          "R65Q"
+        ]
+      }
+    },
+    "OQ759710": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S329P",
+          "T1670I",
+          "R1707G"
+        ],
+        "CHIKVgp2": [
+          "Y956F",
+          "G959S",
+          "M1078V"
+        ]
+      }
+    },
+    "OQ759718": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A121E",
+          "A1664E"
+        ],
+        "CHIKVgp2": [
+          "I740V"
+        ]
+      }
+    },
+    "OQ759732": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "H577Y",
+          "T754A",
+          "T1792M",
+          "D2023H"
+        ],
+        "CHIKVgp2": [
+          "R63K",
+          "T399M",
+          "L573F",
+          "M691I"
+        ]
+      }
+    },
+    "OQ759733": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S113Y",
+          "S140T",
+          "S765P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ759743": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D886G"
+        ],
+        "CHIKVgp2": [
+          "G39P",
+          "L573F",
+          "V1029A"
+        ]
+      }
+    },
+    "OQ759757": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1856S",
+          "D2403A"
+        ],
+        "CHIKVgp2": [
+          "G730R",
+          "A1114T"
+        ]
+      }
+    },
+    "OQ759763": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A121E",
+          "S1850T",
+          "D1851Y"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ759780": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S1850T"
+        ],
+        "CHIKVgp2": [
+          "L573F"
+        ]
+      }
+    },
+    "OQ759788": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "L573F"
+        ]
+      }
+    },
+    "OQ759791": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ759806": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L260P",
+          "Y840H"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ759808": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E1604Q",
+          "G1606S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ759845": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1180A",
+          "S1714P"
+        ],
+        "CHIKVgp2": [
+          "S1202L"
+        ]
+      }
+    },
+    "OQ759861": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A121E",
+          "L383M",
+          "L384I",
+          "Y1177C",
+          "N1178S",
+          "V1180A",
+          "N1795S",
+          "I2467V"
+        ],
+        "CHIKVgp2": [
+          "R63K",
+          "A907T"
+        ]
+      }
+    },
+    "OQ759884": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A121E",
+          "P511Q",
+          "P512H"
+        ],
+        "CHIKVgp2": [
+          "I542V"
+        ]
+      }
+    },
+    "OQ759896": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ759948": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I149V",
+          "L260P",
+          "A515V"
+        ],
+        "CHIKVgp2": [
+          "S447R"
+        ]
+      }
+    },
+    "OQ760046": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A121E",
+          "G1740A",
+          "I1754T"
+        ],
+        "CHIKVgp2": [
+          "E259A"
+        ]
+      }
+    },
+    "OQ760073": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T907A"
+        ]
+      }
+    },
+    "OQ775401": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1557I"
+        ],
+        "CHIKVgp2": [
+          "R63K",
+          "M1108I"
+        ]
+      }
+    },
+    "OQ775434": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T332A",
+          "P511A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ775462": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A487T",
+          "M987T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ775520": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S113P"
+        ],
+        "CHIKVgp2": [
+          "V303A"
+        ]
+      }
+    },
+    "OQ865297": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ865303": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S563A",
+          "A1697V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OQ865304": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1557I"
+        ],
+        "CHIKVgp2": [
+          "A165T"
+        ]
+      }
+    },
+    "OQ865312": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1713T"
+        ],
+        "CHIKVgp2": [
+          "P18S"
+        ]
+      }
+    },
+    "OQ918703": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S563L",
+          "T941M",
+          "S1030N",
+          "A1328V",
+          "A1421V",
+          "*1857R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR064026": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR167311": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A683V"
+        ],
+        "CHIKVgp2": [
+          "N782T"
+        ]
+      }
+    },
+    "OR167334": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A515V",
+          "V1063M",
+          "A1791T",
+          "K2038Q"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR167337": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "N693S"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR360568": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR360569": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Y3F",
+          "T669A"
+        ]
+      }
+    },
+    "OR360579": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Y3F"
+        ]
+      }
+    },
+    "OR360592": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR412347": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR412348": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR412349": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V1163I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR412350": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR470609": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A104T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR470610": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P1973S"
+        ],
+        "CHIKVgp2": [
+          "G433R"
+        ]
+      }
+    },
+    "OR470611": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR538604": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR631874": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T317I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR631881": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR631883": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1259V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR631900": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T351A",
+          "I1259V",
+          "L1992I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OR631916": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "OR715104": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R63K",
+          "V438A"
+        ]
+      }
+    },
+    "OZ252700": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "I582V"
+        ]
+      }
+    },
+    "OZ252701": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1617T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "OZ252702": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1259V"
+        ],
+        "CHIKVgp2": [
+          "T964I"
+        ]
+      }
+    },
+    "OZ252703": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193832": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193833": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193834": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193836": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193837": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193840": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193842": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP193843": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1791T",
+          "M2211K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PP319439": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "V592A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PP319440": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP336966": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP336968": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP336974": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "G604R"
+        ]
+      }
+    },
+    "PP337004": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PP337021": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1792A",
+          "E2143D"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PP599025": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1721V",
+          "V1770A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ441909": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K299E",
+          "P1020S"
+        ],
+        "CHIKVgp2": [
+          "T399M"
+        ]
+      }
+    },
+    "PQ637673": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1110I",
+          "T1709I",
+          "T1792S",
+          "S1953P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637674": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637675": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "F9L",
+          "H321R"
+        ]
+      }
+    },
+    "PQ637676": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637677": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "S613L"
+        ],
+        "CHIKVgp2": [
+          "Q75P"
+        ]
+      }
+    },
+    "PQ637678": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1508T"
+        ],
+        "CHIKVgp2": [
+          "D960E"
+        ]
+      }
+    },
+    "PQ637679": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637680": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637681": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637682": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637683": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P57S",
+          "A1667V",
+          "P1794T"
+        ],
+        "CHIKVgp2": [
+          "A1114T"
+        ]
+      }
+    },
+    "PQ637684": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A487V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637685": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1526M",
+          "A1720V",
+          "L1827P"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637686": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637687": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637688": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637689": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637690": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637691": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637692": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "D1706A"
+        ],
+        "CHIKVgp2": [
+          "Q471R"
+        ]
+      }
+    },
+    "PQ637693": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637694": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637695": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E324K",
+          "Y1409H"
+        ],
+        "CHIKVgp2": [
+          "K546R"
+        ]
+      }
+    },
+    "PQ637696": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R12K"
+        ]
+      }
+    },
+    "PQ637697": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "T1557A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637698": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "L1609F",
+          "P1690Q"
+        ],
+        "CHIKVgp2": [
+          "R54H",
+          "G369R"
+        ]
+      }
+    },
+    "PQ637699": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "G369R"
+        ]
+      }
+    },
+    "PQ637700": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "P431S",
+          "V693I",
+          "K747R"
+        ]
+      }
+    },
+    "PQ637701": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637702": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E1773K"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637703": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637704": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637705": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M314L"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637706": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637707": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1504M"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637708": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637709": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PQ637710": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "E489G",
+          "D1845N"
+        ],
+        "CHIKVgp2": [
+          "G511S"
+        ]
+      }
+    },
+    "PQ841411": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "E294K",
+          "V702I"
+        ]
+      }
+    },
+    "PQ841430": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV035814": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV054360": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "R785K"
+        ]
+      }
+    },
+    "PV054361": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV054362": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV054363": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "P2126A"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PV054364": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV054365": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV066168": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K1165R",
+          "S1503T",
+          "T1774I"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PV066169": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV660468": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K424N",
+          "S1436C",
+          "A1884V",
+          "A1938T",
+          "L2263P",
+          "L2413M",
+          "E2416D",
+          "T2423P",
+          "E2430V"
+        ],
+        "CHIKVgp2": [
+          "E256R",
+          "A414V",
+          "T417M",
+          "M422N",
+          "S447G",
+          "H448I"
+        ]
+      }
+    },
+    "PV660469": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "Y1177C",
+          "N1178S",
+          "I1557T",
+          "I1715T",
+          "L1784P"
+        ],
+        "CHIKVgp2": [
+          "S23P",
+          "I27V",
+          "P400S",
+          "A401L",
+          "D402N",
+          "S447G",
+          "M1078V"
+        ]
+      }
+    },
+    "PV660470": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "I1715A"
+        ],
+        "CHIKVgp2": [
+          "L573F",
+          "M637T"
+        ]
+      }
+    },
+    "PV660471": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K546T",
+          "A580V",
+          "Q738R",
+          "I1799V",
+          "G1802R"
+        ],
+        "CHIKVgp2": [
+          "Q40H",
+          "R63K",
+          "A239R",
+          "V264A",
+          "T284I",
+          "A403G",
+          "E404K",
+          "L573F",
+          "M637T",
+          "M800L"
+        ]
+      }
+    },
+    "PV685537": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685569": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "Q1160R"
+        ]
+      }
+    },
+    "PV685575": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685584": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685591": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685600": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685605": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685619": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685620": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685621": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685622": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685637": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685655": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685664": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "M1671T"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685667": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "K106N"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685672": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "M709T"
+        ]
+      }
+    },
+    "PV685676": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685682": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685685": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685686": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685687": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685688": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685695": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PV685701": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T602S"
+        ]
+      }
+    },
+    "PX216391": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PX216393": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PX216394": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PX308570": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V1029A"
+        ]
+      }
+    },
+    "PX308574": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "PX308578": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "nvrl-603": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "A1699V"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "nvrl-605": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "nvrl-606": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "V1022I"
+        ]
+      }
+    },
+    "nvrl-608": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": []
+      }
+    },
+    "nvrl-614": {
+      "aa_muts": {
+        "CHIKVgp1": [
+          "G230R"
+        ],
+        "CHIKVgp2": []
+      }
+    },
+    "nvrl-616": {
+      "aa_muts": {
+        "CHIKVgp1": [],
+        "CHIKVgp2": [
+          "T1106M"
+        ]
+      }
+    }
+  },
+  "reference": {
+    "CHIKVgp1": "MDPVYVDIDADSAFLKALQRAYPMFEVEPRQVTPNDHANARAFSHLAIKLIEQEIDPDSTILDIGSAPARRMMSDRKYHCVCPMRSAEDPERLANYARKLASAAGKVLDRNISGKIGDLQAVMAVPDTETPTFCLHTDVSCRQRADVAIYQDVYAVHAPTSLYHQAIKGVRVAYWVGFDTTPFMYNAMAGAYPSYSTNWADEQVLKAKNIGLCSTDLTEGRRGKLSIMRGKKLKPCDRVLFSVGSTLYPESRKLLTSWHLPSVFHLKGKLSFTCRCDTVVSCEGYVVKRITMSPGLYGKTTGYAVTHHADGFLMCKTTDTVDGERVSFSVCTYVPATICDQMTGILATEVTPEDAQKLLVGLNQRIVVNGRTQRNTNTMKNYLLPVVAQAFSKWAKECRKDMEDEKLLGVRERTLTCCCLWAFKKQKTHTVYKRPDTQSIQKVQAEFDSFVVPSLWSSGLSIPLRTRIKWLLSKVPKTDLIPYSGDAQEARDAEKEAEEEREAELTREALPPLQAAQEDVQVEIDVEQLEDRAGAGIIETPRGAIKVTAQPTDHVVGEYLVLSPQTVLRSQKLSLIHALAEQVKTCTHSGRAGRYAVEAYDGRVLVPSGYAISPEDFQSLSESATMVYNEREFVNRKLHHIAMHGPALNTDEESYELVRAERTEHEYVYDVDQRRCCKKEEAAGLVLVGDLTNPPYHEFAYEGLKIRPACPYKIAVIGVFGVPGSGKSAIIKNLVTRQDLVTSGKKENCQEITTDVMRQRGLEISARTVDSLLLNGCNRPVDVLYVDEAFACHSGTLLALIALVRPRQKVVLCGDPKQCGFFNMMQMKVNYNHNICTQVYHKSISRRCTLPVTAIVSSLHYEGKMRTTNEYNKPIVVDTTGSTKPDPGDLVLTCFRGWVKQLQIDYRGYEVMTAAASQGLTRKGVYAVRQKVNENPLYASTSEHVNVLLTRTEGKLVWKTLSGDPWIKTLQNPPKGNFKATIKEWEVEHASIMAGICSHQMTFDTFQNKANVCWAKSLVPILETAGIKLNDRQWSQIIQAFKEDKAYSPEVALNEICTRMYGVDLDSGLFSKPLVSVYYADNHWDNRPGGKMFGFNPEAASILERKYPFTKGKWNINKQICVTTRRIEDFNPTTNIIPANRRLPHSLVAEHRPVKGERMEWLVNKINGHHVLLVSGYNLALPTKRVTWVAPLGVRGADYTYNLELGLPATLGRYDLVVINIHTPFRIHHYQQCVDHAMKLQMLGGDSLRLLKPGGSLLIRAYGYADRTSERVICVLGRKFRSSRALKPPCVTSNTEMFFLFSNFDNGRRNFTTHVMNNQLNAAFVGQATRAGCAPSYRVKRMDIAKNDEECVVNAANPRGLPGDGVCKAVYKKWPESFKNSATPVGTAKTVMCGTYPVIHAVGPNFSNYSESEGDRELAAAYREVAKEVTRLGVNSVAIPLLSTGVYSGGKDRLTQSLNHLFTAMDSTDADVVIYCRDKEWEKKISEAIQMRTQVELLDEHISIDCDIVRVHPDSSLAGRKGYSTTEGALYSYLEGTRFHQTAVDMAEIYTMWPKQTEANEQVCLYALGESIESIRQKCPVDDADASSPPKTVPCLCRYAMTPERVTRLRMNHVTSIIVCSSFPLPKYKIEGVQKVKCSKVMLFDHNVPSRVSPREYRPSQESVQEASTTTSLTHSQFDLSVDGEILPVPSDLDADAPALEPALDDGAIHTLPSATGNLAAVSDWVMSTVPVAPPRRRRGRNLTVTCDEREGNITPMASVRFFRAELCPVVQETAETRDTAMSLQAPPSTATELSHPPISFGAPSETFPITFGDFNEGEIESLSSELLTFGDFLPGEVDDLTDSDWSTCSDTDDEL*LDRAGGYIFSSDTGPGHLQQKSVRQSVLPVNTLEEVHEEKCYPPKLDEAKEQLLLKKLQESASMANRSRYQSRKVENMKATIIQRLKRGCRLYLMSETPKVPTYRTTYPAPVYSPPINVRLSNPESAVAACNEFLARNYPTVSSYQITDEYDAYLDMVDGSESCLDRATFNPSKLRSYPKQHAYHAPSIRSAVPSPFQNTLQNVLAAATKRNCNVTQMRELPTLDSAVFNVECFKKFACNQEYWEEFAASPIRITTENLTTYVTKLKGPKAAALFAKTHNLLPLQEVPMDRFTVDMKRDVKVTPGTKHTEERPKVQVIQAAEPLATAYLCGIHRELVRRLNAVLLPNVHTLFDMSAEDFDAIIAAHFKPGDTVLETDIASFDKSQDDSLALTALMLLEDLGVDHSLLDLIEAAFGEISSCHLPTGTRFKFGAMMKSGMFLTLFVNTLLNITIASRVLEDRLTKSACAAFIGDDNIIHGVVSDELMAARCATWMNMEVKIIDAVVSQKAPYFCGGFILHDTVTGTACRVADPLKRLFKLGKPLAAGDEQDEDRRRALADEVIRWQRTGLIDELEKAVYSRYEVQGISVVVMSMATFASSRSNFEKLRGPVITLYGGPK*",
+    "CHIKVgp2": "MEFIPTQTFYNRRYQPRPWTPRPTIQVIRPRPRPQRQAGQLAQLISAVNKLTMRAVPQQKPRRNRKNKKQKQKQQAPQNNTNQKKQPPKKKPAQKKKKPGRRERMCMKIENDCIFEVKHEGKVTGYACLVGDKVMKPAHVKGTIDNADLAKLAFKRSSKYDLECAQIPVHMKSDASKFTHEKPEGYYNWHHGAVQYSGGRFTIPTGAGKPGDSGRPIFDNKGRVVAIVLGGANEGARTALSVVTWNKDIVTKITPEGAEEWSLAIPVMCLLANTTFPCSQPPCTPCCYEKEPEETLRMLEDNVMRPGYYQLLQASLTCSPHRQRRSTKDNFNVYKATRPYLAHCPDCGEGHSCHSPVALERIRNEATDGTLKIQVSLQIGIKTDDSHDWTKLRYMDNHMPADAERAGLFVRTSAPCTITGTMGHFILARCPKGETLTVGFTDSRKISHSCTHPFHHDPPVIGREKFHSRPQHGKELPCSTYVQSTAATAEEIEVHMPPDTPDRTLMSQQSGNVKITVNGQTVRYKCNCGGSNEGLITTDKVINNCKVDQCHAAVTNHKKWQYNSPLVPRNAELGDRKGKIHIPFPLANVTCRVPKARNPTVTYGKNQVIMLLYPDHPTLLSYRNMGEEPNYQEEWVTHKKEVVLTVPTEGLEVTWGNNEPYKYWPQLSANGTAHGHPHEIILYYYELYPTMTVVVVSVASFILLSMVGMAVGMCMCARRRCITPYELTPGATVPFLLSLICCIRTAKAATYQEAAVYLWNEQQPLFWLQALIPLAALIVLCNCLRLLPCCCKTLAFLAVMSVGAHTVSAYEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESKDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH*"
+  }
+}

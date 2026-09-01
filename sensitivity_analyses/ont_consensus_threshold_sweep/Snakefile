@@ -1,0 +1,92 @@
+# Snakefile — consensus-calling minimum-depth sensitivity sweep for the Garissa/nvrl ONT samples
+#
+# Usage:
+#   cd MS/ont-dissonance/consensus_threshold_sweep
+#   snakemake --cores 8 --use-conda=False   # (no conda envs needed; everything runs in Docker)
+#
+# Output:
+#   recall_sweep/m{M}/{sample}.fa + .qual.txt   — one consensus per (sample, threshold)
+#   results/depth_profile/{sample}.depth.txt    — per-position depth (for the summary + any
+#                                                  downstream plotting)
+#   results/threshold_summary_long.tsv          — one row per (sample, threshold)
+#   results/threshold_summary_wide.tsv          — sample x threshold pass/fail matrix
+#                                                  (reproduces the table used to decide -m 20)
+
+import os
+
+configfile: "config.yaml"
+
+SAMPLES = config["samples"]
+THRESHOLDS = config["min_depth_thresholds"]
+BAM_DIR = config["bam_dir"]
+REF = config["reference"]
+IVAR_IMAGE = config["ivar_image"]
+
+REF_DIR = os.path.dirname(REF)
+REF_NAME = os.path.basename(REF)
+
+OUTDIR = os.path.abspath("../recall_sweep")
+RESULTS = os.path.abspath("results")
+
+rule all:
+    input:
+        expand(f"{OUTDIR}/m{{m}}/{{sample}}.fa", m=THRESHOLDS, sample=SAMPLES),
+        expand(f"{RESULTS}/depth_profile/{{sample}}.depth.txt", sample=SAMPLES),
+        f"{RESULTS}/threshold_summary_long.tsv",
+        f"{RESULTS}/threshold_summary_wide.tsv",
+
+
+rule depth_profile:
+    input:
+        bam = f"{BAM_DIR}/{{sample}}.sorted.bam",
+    output:
+        depth = f"{RESULTS}/depth_profile/{{sample}}.depth.txt",
+    params:
+        bamdir = BAM_DIR,
+    shell:
+        """
+        mkdir -p {RESULTS}/depth_profile
+        docker run --rm -v {params.bamdir}:/bams staphb/samtools:1.24 \
+            samtools depth -a /bams/{wildcards.sample}.sorted.bam > {output.depth}
+        """
+
+
+rule consensus_at_threshold:
+    input:
+        bam = f"{BAM_DIR}/{{sample}}.sorted.bam",
+    output:
+        fa = f"{OUTDIR}/m{{m}}/{{sample}}.fa",
+        qual = f"{OUTDIR}/m{{m}}/{{sample}}.qual.txt",
+    params:
+        bamdir = BAM_DIR,
+        refdir = REF_DIR,
+        refname = REF_NAME,
+        outdir = lambda wc: f"{OUTDIR}/m{wc.m}",
+        image = IVAR_IMAGE,
+    shell:
+        """
+        mkdir -p {params.outdir}
+        docker run --rm \
+            -v {params.bamdir}:/bams:ro \
+            -v {params.refdir}:/ref:ro \
+            -v {params.outdir}:/out \
+            {params.image} bash -c \
+            "samtools mpileup -aa -A -d 1000000 -B -f /ref/{params.refname} /bams/{wildcards.sample}.sorted.bam | \
+             ivar consensus -m {wildcards.m} -q 10 -t 0 -p /out/{wildcards.sample}"
+        """
+
+
+rule threshold_summary:
+    input:
+        fastas = expand(f"{OUTDIR}/m{{m}}/{{sample}}.fa", m=THRESHOLDS, sample=SAMPLES),
+        provenance = config["provenance_table"],
+    output:
+        long = f"{RESULTS}/threshold_summary_long.tsv",
+        wide = f"{RESULTS}/threshold_summary_wide.tsv",
+    params:
+        outdir = OUTDIR,
+        thresholds = THRESHOLDS,
+        samples = SAMPLES,
+        near_complete = config["near_complete_min_length"],
+    script:
+        "scripts/summarize_thresholds.py"

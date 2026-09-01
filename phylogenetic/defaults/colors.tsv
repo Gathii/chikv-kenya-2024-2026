@@ -1,0 +1,26 @@
+# --- REGIONS ---
+region	Africa	#58094f
+region	Asia	#56B4E9
+region	Europe	#009E73
+region	South America	#CC79A7
+region	North America	#D55E00
+region	Oceania	#F0E442
+region	Indian Ocean	#0072B2
+region	indian ocean	#0072B2
+
+# --- COUNTRIES ---
+country	Kenya	#000000
+country	India	#56B4E9
+
+# --- KENYAN DIVISIONS & LOCATIONS ---
+division	Garissa	#E69F00
+division	Lamu	#F0E442
+division	Mombasa	#009E73
+location	Garissa	#E69F00
+location	Lamu	#F0E442
+location	Mombasa	#009E73
+
+# --- LINEAGES (Maintained from previous configuration) ---
+lineage	East-Central-South-African	#76B7B2
+lineage	Indian-Ocean	#EDC948
+```

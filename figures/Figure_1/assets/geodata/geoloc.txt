@@ -1,0 +1,20 @@
+Show markers
+Likoni  -4.089228060207857, 39.66160625482952
+Lamu    -2.2710688221588584, 40.900849860702365
+Hagadera    0.0103044377418767, 40.37555876966763
+
+Marker color
+Lamu County #1230b6
+Lamu    Cyan    #7fc97f
+Hagadera    #e41a1c
+
+Highlight Counties #e5f5f9
+County boundary color #bdbdbd
+Water bodies #2b8cbe
+
+Mombasa County  #756bb1
+Garissa County  #99d8c9
+Lamu County #fc9272
+Somalia #e5f5f9
+
+Dont show Sudan, Uganda, Tanzania

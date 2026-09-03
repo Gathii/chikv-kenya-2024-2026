@@ -32,7 +32,7 @@ phylogenetic/
     tree/                       ML tree, refined timetree, branch_lengths.json, inferred_clock_rate.txt
     traits.json, nt_muts.json, aa_muts.json   node-data JSONs (ancestral traits/mutations)
 
-auspice/ecsa_iol_chikv.json      Auspice-viewable build (`nextstrain view auspice/`) or drop in [Auspice](https://auspice.us)
+auspice/chikv-kenya-2024-2026.json      Auspice-viewable build (`nextstrain view auspice/`) or drop in [Auspice](https://auspice.us)
 
 accessions/
   genbank_batch1_seqids.txt          genbank submitted sequences used in build
@@ -53,7 +53,6 @@ run from the repo root. This regenerates the full pipeline from `context_seqs.fa
 filtering, focal filtering, combine, align, mask, tree, an automated `treetime clock` rate
 derivation, refine, traits, ancestral, translate, export). Verified via `snakemake -n`
 (dry-run) to resolve cleanly end-to-end from this repo's own files with no external paths.
-See `SOFTWARE_VERSIONS.md` for exact tool versions; `snakemake -n` first to preview the plan.
 
 **Fallback — plain bash:** `bash ingest/results/build.sh` runs the same augur commands
 without Snakemake, in case Snakemake isn't available. No internet access is required

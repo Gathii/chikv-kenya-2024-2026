@@ -1,0 +1,99 @@
+# Snakefile
+import os
+import glob
+
+configfile: "config.yaml"
+
+##chikungunya ref mapping
+# Define samples from raw-data
+#SAMPLES = [os.path.basename(f).split('.')[0] for f in glob.glob("data/raw-data/*.fastq*")]
+#SAMPLES = [os.path.splitext(os.path.basename(f))[0].replace('.fastq', '') 
+#          for f in glob.glob("data/raw-data/*.fastq.gz")]  # Only .fastq.gz files
+SAMPLES = config["samples"]
+
+rule all:
+    input:
+        expand("results/consensus/{sample}.consensus.fa", sample=SAMPLES)
+
+rule seqkit_stats:
+    input:
+        "data/raw-data/{sample}.fastq.gz"
+    output:
+        "results/{sample}_stats.txt"
+    threads: 12
+    log:
+        "logs/{sample}_seqkit_stats.log"
+    shell:
+        """
+        mkdir -p {results,logs}/ && \
+        module purge && module load seqkit/2.10.0 && \
+        seqkit stats -j {threads} -Ta {input} > {output} 2> {log}"
+        """
+rule length_filter:
+    input:
+        "data/raw-data/{sample}.fastq.gz"
+    output:
+        "processed-data/{sample}.len.fastq"
+    threads: 12
+    shell:
+        """
+	module purge && module load seqkit/2.10.0 && \
+        seqkit seq -m 100 -M 12500 -j {threads} {input} > {output}
+        """
+# rule host_removal:
+#     input:
+#         fq = "processed-data/{sample}.trim_len.fastq",
+#         ref = "data/reference_genomes/human_reference.mmi"
+#     output:
+#         bam = "processed-data/02_dehost/{sample}_hostmap.sorted.bam",
+#         fastq = "processed-data/02_dehost/{sample}_nohost_reads.fastq"
+#     threads: 32
+#     shell:
+#         """
+#         mkdir -p processed-data/02_dehost &&
+#         module purge && module load minimap2/2.29 samtools/1.21 &&
+#         minimap2 -ax map-ont -t {threads} {input.ref} {input.fq} | \
+#         samtools view -bS --threads {threads} | \
+#         samtools sort -o {output.bam} --threads {threads} && \
+#         samtools view -b -f 4 --threads {threads} {output.bam} | \
+#         samtools bam2fq --threads {threads} > {output.fastq}
+#         """
+rule porechop_trim:
+     input:
+         "processed-data/{sample}.len.fastq"
+     output:
+         "processed-data/{sample}.len.trim.fastq"
+     threads: 12
+     shell:
+         """
+         module purge && module load porechop/0.2.4 && \
+         porechop -i {input} -o {output} -t {threads} --discard_middle -v=0
+	 """
+rule minimap2_align_and_sort:
+    input:
+        ref = config["reference"],
+        fq = "processed-data/{sample}.len.trim.fastq"
+    output:
+        bam = "results/mapping/{sample}.sorted.bam",
+        bai = "results/mapping/{sample}.sorted.bam.bai"
+    threads: 18
+    shell:
+        """
+        module purge && module load minimap2/2.29 samtools/1.21 && \
+        minimap2 -ax asm20 -t {threads} {input.ref} {input.fq} | \
+        samtools view -Sb - --threads {threads} | \
+        samtools sort -o {output.bam} --threads {threads} && \
+        samtools index {output.bam} --threads {threads}
+        """
+rule generate_consensus:
+    input:
+        ref = config["reference"],
+        bam = "results/mapping/{sample}.sorted.bam"
+    output:
+        cons = "results/consensus/{sample}.consensus.fa"
+    shell:
+        """
+        module purge && module load samtools/1.21 ivar/1.4.4 && \
+        samtools mpileup -aa -A -d 1000000 -B -f {input.ref} {input.bam} | \
+        ivar consensus -m 20 -q 10 -t 0 -p results/consensus/{wildcards.sample}.consensus
+        """

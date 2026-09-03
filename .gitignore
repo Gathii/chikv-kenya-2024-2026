@@ -1,0 +1,6 @@
+.snakemake/
+
+# Natural Earth shapefiles used by figures/Figure_1/assets/make_map.py —
+# large third-party map data, fetched locally rather than committed.
+figures/Figure_1/assets/geodata/lakes/
+figures/Figure_1/assets/geodata/ocean/

@@ -122,7 +122,7 @@ rule filter_focal:
             --min-length 8000
         """
 
-# 2. Combine Data
+# 2. Combining Data
 # -----------------------------------------------------------------------------
 
 rule combine_sequences:

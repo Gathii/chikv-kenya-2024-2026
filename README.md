@@ -34,6 +34,21 @@ phylogenetic/
 
 auspice/chikv-kenya-2024-2026.json      Auspice-viewable build (`nextstrain view auspice/`) or drop in [Auspice](https://auspice.us)
 
+figures/
+  Figure_1/
+    assets/                      data used to generate the map
+        geodata/gadm41_KEN_1.json, gadm41_SOM_0.json, geoloc.txt
+    make_map.py                      mapping script
+    Figure_1.png    
+  Figure_2/
+    assets/CHIKV_pos-neg_ajtmh_alltime_latest.txt, figure2.py
+    Figure_2.png
+  Figure_3/
+    results_20260819/
+        tree/branch_lengths.json, ecsa_tree_01.nwk
+        aa_muts.json, metadata.tsv, nt_muts.json, traits.json
+    figure3.py
+
 accessions/
   genbank_batch1_seqids.txt          genbank submitted sequences used in build
   focal_sequence_manifest.tsv         full provenance

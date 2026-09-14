@@ -139,7 +139,7 @@ fig.subplots_adjust(left=0.095, right=0.985, top=0.962, bottom=0.104)
 #A: weekly confirmed cases
 for key, lab, col, ls in SERIES:
     axA.plot(x, positive[key], lw=0, marker="o", ms=2.2,
-             mfc=tint(col), mec="none", zorder=2)
+             mfc=tint(col), mec="grey", mew=0.1, zorder=2)
     axA.plot(x, smooth(positive[key]), color=col, lw=1.8, ls=ls, label=lab,
              solid_capstyle="round", zorder=3)
 axA.set_ylabel("Confirmed chikungunya\ncases per week (n)", fontsize=9, linespacing=1.3)

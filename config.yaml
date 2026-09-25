@@ -1,10 +1,7 @@
 inputs:
   context_seqs: "ingest/results/context_seqs.fasta"
   context_meta: "ingest/results/context_metadata.tsv"
-  # Focal set as of the 2026-08-19 rebuild: 149 near-complete genomes post-QC (-m20-corrected
-  # Garissa consensuses included). Path adjusted from the working tree's
-  # MS/ont-dissonance/m20_final/final_focal_seqs_m20.fasta to this repo's own layout — same
-  # file, copied in as ingest/results/final_focal_seqs.fasta when this repo was staged.
+  # Focal set as of the 2026-08-19 rebuild: 149 near-complete genomes post-QC
   focal_seqs: "ingest/results/final_focal_seqs.fasta"
   focal_meta: "ingest/results/final_focal_metadata.tsv"
   reference: "phylogenetic/refs/CHKV.gb"
@@ -29,7 +26,7 @@ filtering:
     seqs_per_group: 3
 
 refine:
-  # Fallback only — clock_check derives the real rate from this repo's own data each run.
+  # Fallback only — clock_check derives the real rate.
   # Last verified value (2026-08-19 rebuild, 149-sequence focal set): 3.437e-04.
   clock_rate_fallback: 0.0003437
   clock_std_dev: 0.0001
@@ -39,4 +36,4 @@ build:
   name: "chikv-kenya-2024-2026"
   title: "Chikungunya virus in northeastern and coastal Kenya, 2024-2026"
   maintainers: "Gathii"
-  url: "https://github.com/Gathii/CHIKV_KY_build"
+  url: "https://github.com/Gathii/chikv-kenya-2024-2026"

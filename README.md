@@ -64,7 +64,7 @@ sensitivity_analyses/
 snakemake --cores 8
 ```
 run from the repo root. This regenerates the full pipeline from `context_seqs.fasta` +
-`final_focal_seqs.fasta` all the way to `auspice/ecsa_iol_chikv.json` (18 rules: context
+`final_focal_seqs.fasta` all the way to `auspice/chikv-kenya-2024-2026.json` (18 rules: context
 filtering, focal filtering, combine, align, mask, tree, an automated `treetime clock` rate
 derivation, refine, traits, ancestral, translate, export). Verified via `snakemake -n`
 (dry-run) to resolve cleanly end-to-end from this repo's own files with no external paths.
